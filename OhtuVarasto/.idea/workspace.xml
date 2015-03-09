@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf9b9c6-6885-494a-8ec3-be1d0ea7f995" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" afterPath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" />
-    </list>
+    <list default="true" id="acf9b9c6-6885-494a-8ec3-be1d0ea7f995" name="Default" comment="" />
     <ignored path="OhtuVarasto.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,8 +39,8 @@
       <file leaf-file-name="VarastoTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30586907" vertical-offset="524" max-vertical-offset="1425">
-              <caret line="67" column="70" selection-start-line="67" selection-start-column="70" selection-end-line="67" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.17042889" vertical-offset="524" max-vertical-offset="1425">
+              <caret line="59" column="90" selection-start-line="59" selection-start-column="90" selection-end-line="59" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -168,6 +166,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -470,16 +469,16 @@
       <created>1425885997790</created>
       <option name="number" value="Default" />
       <updated>1425885997790</updated>
-      <workItem from="1425886004095" duration="3595000" />
+      <workItem from="1425886004095" duration="3696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3595000" />
+    <option name="totallyTimeSpent" value="3696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="733" y="23" width="938" height="983" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -544,8 +543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30586907" vertical-offset="524" max-vertical-offset="1425">
-          <caret line="67" column="70" selection-start-line="67" selection-start-column="70" selection-end-line="67" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.17042889" vertical-offset="524" max-vertical-offset="1425">
+          <caret line="59" column="90" selection-start-line="59" selection-start-column="90" selection-end-line="59" selection-end-column="90" />
           <folding />
         </state>
       </provider>
