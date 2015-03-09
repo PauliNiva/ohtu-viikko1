@@ -95,4 +95,10 @@ public class VarastoTest {
         varasto.otaVarastosta(6);
         assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
     }
+
+    @Test
+    public void lisaaEnemmanKuinMahtuuToimii() {
+        varasto.lisaaVarastoon(11);
+        assertEquals(10, varasto.getSaldo(), vertailuTarkkuus);
+    }
 }
